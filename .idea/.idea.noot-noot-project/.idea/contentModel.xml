@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sam\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sam\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_noot-noot-project.1390069673.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sam\Desktop\Uni\2020\GDS\Semester project\noot-noot-project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Breakable Windows" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BreakableWindow.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="BlurPanelEditor.cs" t="Include" />
+        </e>
+        <e p="Imported" t="Include">
+          <e p="AllSkyFree" t="Include">
+            <e p="AllSkyFree_Menu.cs" t="Include" />
+            <e p="AllSkyFree_Readme.txt" t="Include" />
+          </e>
+          <e p="LeanTween" t="Include">
+            <e p="Editor" t="Include">
+              <e p="LeanTweenDocumentationEditor.cs" t="Include" />
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Archived" t="Include">
+                <e p="2dUnlitWithFade.shader" t="Include" />
+                <e p="OldGUIExamplesCS.cs" t="Include" />
+                <e p="TestingPunch.cs" t="Include" />
+                <e p="TestingRigidbodyCS.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Following.cs" t="Include" />
+                <e p="GeneralAdvancedTechniques.cs" t="Include" />
+                <e p="GeneralBasic.cs" t="Include" />
+                <e p="GeneralBasics2d.cs" t="Include" />
+                <e p="GeneralCameraShake.cs" t="Include" />
+                <e p="GeneralEasingTypes.cs" t="Include" />
+                <e p="GeneralEventsListeners.cs" t="Include" />
+                <e p="GeneralSequencer.cs" t="Include" />
+                <e p="GeneralSimpleUI.cs" t="Include" />
+                <e p="GeneralUISpace.cs" t="Include" />
+                <e p="LogoCinematic.cs" t="Include" />
+                <e p="PathBezier.cs" t="Include" />
+                <e p="PathBezier2d.cs" t="Include" />
+                <e p="PathSpline.cs" t="Include" />
+                <e p="PathSpline2d.cs" t="Include" />
+                <e p="PathSplineEndless.cs" t="Include" />
+                <e p="PathSplinePerformance.cs" t="Include" />
+                <e p="PathSplines.cs" t="Include" />
+                <e p="PathSplineTrack.cs" t="Include" />
+                <e p="TestingUnitTests.cs" t="Include" />
+                <e p="TestingZLegacy.cs" t="Include" />
+                <e p="TestingZLegacyExt.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Framework" t="Include">
+              <e p="LeanAudio.cs" t="Include" />
+              <e p="LeanSmooth.cs" t="Include" />
+              <e p="LeanTest.cs" t="Include" />
+              <e p="LeanTween.cs" t="Include" />
+              <e p="LeanTweenExt.cs" t="Include" />
+              <e p="LTDescr.cs" t="Include" />
+              <e p="LTDescrOptional.cs" t="Include" />
+              <e p="LTSeq.cs" t="Include" />
+            </e>
+            <e p="License.txt" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="LowPolyWater_Pack" t="Include">
+            <e p="LowPoly Island" t="Include">
+              <e p="Credits.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="GeneratePlane.cs" t="Include" />
+              </e>
+              <e p="LowPolyWater.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="WaterShaded.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="GuardAI.cs" t="Include" />
+            <e p="GuardAudio.cs" t="Include" />
+            <e p="HUD.cs" t="Include" />
+            <e p="ParrotGuard.cs" t="Include" />
+          </e>
+          <e p="Audio" t="Include">
+            <e p="AmbienceSource.cs" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+            <e p="CentralZooAudioController.cs" t="Include" />
+            <e p="EnclosureAudioController.cs" t="Include" />
+            <e p="FadeMixerGroup.cs" t="Include" />
+            <e p="LionAudioController.cs" t="Include" />
+            <e p="RavenAudio.cs" t="Include" />
+            <e p="RavenController.cs" t="Include" />
+            <e p="SetMixLvls.cs" t="Include" />
+          </e>
+          <e p="Banana.cs" t="Include" />
+          <e p="BoxBreak.cs" t="Include" />
+          <e p="CameraDetect.cs" t="Include" />
+          <e p="ChangeEyes.cs" t="Include" />
+          <e p="ChangeEyesLion.cs" t="Include" />
+          <e p="Checkpoint.cs" t="Include" />
+          <e p="CollectItem.cs" t="Include" />
+          <e p="CursorDisable.cs" t="Include" />
+          <e p="DestructibleGrate.cs" t="Include" />
+          <e p="DropBanana.cs" t="Include" />
+          <e p="FinGame.cs" t="Include" />
+          <e p="Loader.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="CheckpointManager.cs" t="Include" />
+            <e p="Enclosure.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="PauseManager.cs" t="Include" />
+            <e p="PenguinsManager.cs" t="Include" />
+            <e p="ZoneManager.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerAudio.cs" t="Include" />
+            <e p="PlayerInput.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="PuzzleNPCs" t="Include">
+            <e p="ChildWithBanana.cs" t="Include" />
+            <e p="FishPenguin.cs" t="Include" />
+            <e p="Lion.cs" t="Include" />
+            <e p="Monkey.cs" t="Include" />
+            <e p="ParrotLookClose.cs" t="Include" />
+            <e p="ParrotLookOutside.cs" t="Include" />
+          </e>
+          <e p="Teleport.cs" t="Include" />
+          <e p="TestCutscene.cs" t="Include" />
+          <e p="Testing" t="Include">
+            <e p="AudioTest.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="BlurPanel.cs" t="Include" />
+            <e p="ControlsHint.cs" t="Include" />
+            <e p="UIHats.cs" t="Include" />
+            <e p="UIPauseScreen.cs" t="Include" />
+            <e p="UITitleScreen.cs" t="Include" />
+          </e>
+          <e p="Water.cs" t="Include" />
+          <e p="ZoomInOut.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Blur.shader" t="Include" />
+        </e>
+        <e p="SimonAssets" t="Include">
+          <e p="TestScripts" t="Include">
+            <e p="AddVelocity.cs" t="Include" />
+            <e p="CancelVault.cs" t="Include" />
+            <e p="CenterMass.cs" t="Include" />
+            <e p="ChefHatScript.cs" t="Include" />
+            <e p="Elevator.cs" t="Include" />
+            <e p="GroundDetection.cs" t="Include" />
+            <e p="HatScripts.cs" t="Include" />
+            <e p="HeadHinge.cs" t="Include" />
+            <e p="HintTrigger.cs" t="Include" />
+            <e p="IgnoreColliders.cs" t="Include" />
+            <e p="Ladder.cs" t="Include" />
+            <e p="ObjectPhysics.cs" t="Include" />
+            <e p="Parrot.cs" t="Include" />
+            <e p="ParrotDoor.cs" t="Include" />
+            <e p="RollScript.cs" t="Include" />
+            <e p="SkyWalk.cs" t="Include" />
+            <e p="SpinScript.cs" t="Include" />
+            <e p="Switch.cs" t="Include" />
+            <e p="TestBeakTween.cs" t="Include" />
+            <e p="TestPoleVault.cs" t="Include" />
+            <e p="Vault.cs" t="Include" />
+            <e p="VaultLimit.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="denne-shuffle-euro-hollow" t="Include">
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="kg-summer-sunshine" t="Include">
+              <e p="KG-TOU2013.txt" t="Include" />
+            </e>
+            <e p="sqeaky-chalk" t="Include">
+              <e p="readthis.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="noot-noot-project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

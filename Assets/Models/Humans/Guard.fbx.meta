@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: c7b3a2d6f75a5c942818b44ae0095f23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adult
+    100002: Armature
+    100004: Bone.004
+    100006: Bone.004_end
+    100008: Camera
+    100010: Foot L
+    100012: Foot L_end
+    100014: Foot R.001
+    100016: Foot R.001_end
+    100018: //RootNode
+    100020: Hand L
+    100022: Hand L_end
+    100024: Hand R.001
+    100026: Hand R.001_end
+    100028: Head
+    100030: Head_end
+    100032: Light
+    100034: Lower Arm L
+    100036: Lower Arm R.001
+    100038: Lower Leg L
+    100040: Lower Leg R.001
+    100042: Lower Spine
+    100044: Neck
+    100046: Officer Cap
+    100048: Upper Arm L
+    100050: Upper Arm R.001
+    100052: Upper Leg L
+    100054: Upper Leg R.001
+    100056: Upper Spine
+    400000: Adult
+    400002: Armature
+    400004: Bone.004
+    400006: Bone.004_end
+    400008: Camera
+    400010: Foot L
+    400012: Foot L_end
+    400014: Foot R.001
+    400016: Foot R.001_end
+    400018: //RootNode
+    400020: Hand L
+    400022: Hand L_end
+    400024: Hand R.001
+    400026: Hand R.001_end
+    400028: Head
+    400030: Head_end
+    400032: Light
+    400034: Lower Arm L
+    400036: Lower Arm R.001
+    400038: Lower Leg L
+    400040: Lower Leg R.001
+    400042: Lower Spine
+    400044: Neck
+    400046: Officer Cap
+    400048: Upper Arm L
+    400050: Upper Arm R.001
+    400052: Upper Leg L
+    400054: Upper Leg R.001
+    400056: Upper Spine
+    2000000: Camera
+    2100000: Material
+    2100002: Black
+    2300000: Officer Cap
+    3300000: Officer Cap
+    4300000: Adult
+    4300002: Officer Cap
+    9500000: //RootNode
+    10800000: Light
+    13700000: Adult
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
