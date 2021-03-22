@@ -1,1 +1,2 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
+popcorn[[:space:]]stand.fbx filter=lfs diff=lfs merge=lfs -text
